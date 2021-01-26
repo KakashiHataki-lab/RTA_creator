@@ -1,3 +1,2 @@
 # RTA_creator
-Create a TxT_RTA backwards
-A line for test purpose
+Creates txt file with 67 character per line with ~ 250.000 lines
